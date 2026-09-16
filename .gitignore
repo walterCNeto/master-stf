@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 venv/
 .env
+run_monitor.ps1

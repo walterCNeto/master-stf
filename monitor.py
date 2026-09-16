@@ -7,14 +7,18 @@ detalhamento de cada endpoint.
 """
 from __future__ import annotations
 
+import atexit
 import hashlib
+import html
 import json
 import os
 import sys
+import tempfile
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import certifi
 import requests
 from bs4 import BeautifulSoup
 
@@ -26,6 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent
 STATE_PATH = BASE_DIR / "state.json"
 SEEDS_PATH = BASE_DIR / "seeds.json"
 TIMELINE_PATH = BASE_DIR / "docs" / "timeline.md"
+STF_CHAIN_PATH = BASE_DIR / "certs" / "stf-chain.pem"
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -42,7 +47,32 @@ BACKOFF_BASE = 2  # segundos: 2, 4, 8...
 
 NOME_PARTE = "BANCO MASTER"
 
+
+def build_ca_bundle() -> str:
+    """Combina o bundle padrão do certifi com certs/stf-chain.pem.
+
+    Os servidores *.stf.jus.br não enviam a cadeia intermediária completa
+    (apenas o certificado-folha), então a verificação TLS padrão falha com
+    "unable to get local issuer certificate". certs/stf-chain.pem guarda o
+    certificado-folha + a intermediária faltante (ver SOURCES.md sobre como
+    foram extraídos via `openssl s_client -showcerts`).
+
+    Se o arquivo não existir, usa apenas o bundle padrão do certifi.
+    """
+    if not STF_CHAIN_PATH.exists():
+        return certifi.where()
+
+    certifi_content = Path(certifi.where()).read_text(encoding="utf-8")
+    combined = certifi_content + "\n" + STF_CHAIN_PATH.read_text(encoding="utf-8")
+    fd, path = tempfile.mkstemp(prefix="ca-bundle-", suffix=".pem")
+    with os.fdopen(fd, "w", encoding="utf-8") as f:
+        f.write(combined)
+    atexit.register(lambda: Path(path).unlink(missing_ok=True))
+    return path
+
+
 session = requests.Session()
+session.verify = build_ca_bundle()
 session.headers.update(
     {
         "User-Agent": USER_AGENT,
@@ -320,7 +350,12 @@ def main() -> int:
             print(f"  {len(itens)} item(ns) coletado(s).")
             todos_itens.extend(itens)
         except Exception as exc:  # noqa: BLE001
-            print(f"  [erro] {nome_fonte} falhou: {exc}", file=sys.stderr)
+            erro_resumido = f"{type(exc).__name__}: {exc}"[:300]
+            print(f"  [erro] {nome_fonte} falhou: {erro_resumido}", file=sys.stderr)
+            send_telegram(
+                f"⚠️ <b>[monitor] {html.escape(nome_fonte)} falhou</b>\n"
+                f"{html.escape(erro_resumido)}"
+            )
 
     novidades = [item for item in todos_itens if item["hash"] not in state]
     print(f"\n{len(novidades)} novidade(s) encontrada(s) de {len(todos_itens)} item(ns) totais.")

@@ -109,6 +109,39 @@ API WordPress padrão (`wp/v2/posts`), retorna array de posts com campos
 `content.rendered` (HTML). Não precisa de autenticação. Funciona
 diretamente, sem parâmetros adicionais.
 
+## Cadeia de certificados TLS (`certs/stf-chain.pem`)
+
+Em runners Linux (ex.: GitHub Actions/Ubuntu) as chamadas a
+`digital.stf.jus.br` e `portal.stf.jus.br` falham com
+`SSLCertVerificationError: unable to get local issuer certificate`. Motivo,
+confirmado via `openssl s_client -showcerts -connect <host>:443`: esses dois
+hosts enviam **apenas o certificado-folha** (`CN=*.stf.jus.br`), sem a
+intermediária `GlobalSign GCC R6 AlphaSSL CA 2025`. Sem a intermediária, o
+verificador TLS não consegue montar a cadeia até uma raiz confiável — mesmo
+a raiz (`GlobalSign Root CA - R6`) já estando no bundle do `certifi`.
+
+`noticias.stf.jus.br` envia a cadeia completa (folha + intermediária +
+raiz), então não apresenta o problema — mas por precaução o monitor usa o
+mesmo bundle combinado para as 3 fontes.
+
+`certs/stf-chain.pem` contém o certificado-folha + a intermediária
+faltante, extraídos e deduplicados assim:
+
+```
+openssl s_client -showcerts -connect digital.stf.jus.br:443 -servername digital.stf.jus.br
+openssl s_client -showcerts -connect portal.stf.jus.br:443  -servername portal.stf.jus.br
+openssl s_client -showcerts -connect noticias.stf.jus.br:443 -servername noticias.stf.jus.br
+```
+
+Em `monitor.py`, `build_ca_bundle()` concatena `certifi.where()` +
+`certs/stf-chain.pem` num arquivo temporário e usa `session.verify =
+<bundle>`. Se `certs/stf-chain.pem` não existir, cai de volta para o
+bundle padrão do certifi (verificação segue funcionando normalmente
+em qualquer ambiente onde os servidores enviem a cadeia completa).
+
+Esses certificados são públicos (enviados a qualquer cliente TLS) e têm
+validade; se expirarem, basta repetir a extração acima.
+
 ## Observações gerais
 
 - Todas as fontes respondem sem necessidade de sessão/cookies/CSRF.

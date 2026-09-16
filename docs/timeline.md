@@ -839,3 +839,7 @@ BrasÃ­lia, 3 de setembro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte C]** STF forma maioria para manter prisão de Daniel Vorcaro e de outros investigados no caso Master (2026-03-13) — [https://noticias.stf.jus.br/postsnoticias/stf-forma-maioria-para-manter-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/](https://noticias.stf.jus.br/postsnoticias/stf-forma-maioria-para-manter-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/)
 - **[Fonte C]** Confira os destaques do Plenário Virtual (2026-03-13) — [https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-7/](https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-7/)
 - **[Fonte C]** STF rejeita pedido para instalação de CPI do Banco Master (2026-03-12) — [https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-instalacao-de-cpi-do-banco-master/](https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-instalacao-de-cpi-do-banco-master/)
+
+## 2026-09-16 16:00 UTC
+
+- **[Fonte C]** Pedido de vista suspende discussão sobre julgamento conjunto de duas petições do caso Master (2026-09-15) — [https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/](https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/)

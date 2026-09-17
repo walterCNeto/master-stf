@@ -1563,6 +1563,10 @@
     "first_seen": "2026-09-16T00:39:01.639570+00:00",
     "source": "fonte_b"
   },
+  "ac0aeee0b2c1d741e85cbf2a2f64c403ca7cd27e6a91730c10c01320fac617bd": {
+    "first_seen": "2026-09-17T21:00:09.925839+00:00",
+    "source": "fonte_c"
+  },
   "ac1d5559b489f0d9e5add4191f47c59f54b1b909689b2ad6ba2a0ebb901183cf": {
     "first_seen": "2026-09-16T00:40:05.699312+00:00",
     "source": "fonte_b"
@@ -2129,6 +2133,10 @@
   },
   "ea63ba6fd88e202ab352f728d31308ad56a9afbbd7c4fb29b0c82114166583a3": {
     "first_seen": "2026-09-16T00:42:01.241621+00:00",
+    "source": "fonte_b"
+  },
+  "ea723e4c14ccb2bdcd7c715c91328ae462b95d956ad7ffe97cd49bf81e38358c": {
+    "first_seen": "2026-09-17T21:00:09.580889+00:00",
     "source": "fonte_b"
   },
   "ea8f9f190ad62ae99412b1543a6e044d273060fa0e6bdebc7886dfd7788f2155": {

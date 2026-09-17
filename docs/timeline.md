@@ -870,3 +870,8 @@ questionamento sobre a regularidade da prÃ³pria relatoria, a inclusÃ£o em
 pauta serÃ¡ oportunamente redesignada.
 Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390512609&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Informe da Secretaria de Comunicação (2026-09-17) — [https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/](https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/)
+
+## 2026-09-17 21:00 UTC
+
+- **[Fonte B — PET 16704]** [17/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117402 Data: 17/09/2026, Ã s 13:33:30 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Informe da Secretaria de Comunicação (2026-09-17) — [https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/](https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/)

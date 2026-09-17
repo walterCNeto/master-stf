@@ -843,3 +843,10 @@ BrasÃ­lia, 3 de setembro de 2026." ([doc](https://portal.stf.jus.br/processos/
 ## 2026-09-16 16:00 UTC
 
 - **[Fonte C]** Pedido de vista suspende discussão sobre julgamento conjunto de duas petições do caso Master (2026-09-15) — [https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/](https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/)
+
+## 2026-09-17 12:00 UTC
+
+- **[Fonte B — PET 16704]** [16/09/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117034 Data: 16/09/2026, Ã s 18:03:48 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117004 Data: 16/09/2026, Ã s 17:37:09 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Pedido de vista suspende discussão sobre julgamento conjunto de duas petições do caso Master (2026-09-15) — [https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/](https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/)

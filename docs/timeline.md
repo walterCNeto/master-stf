@@ -850,3 +850,23 @@ BrasÃ­lia, 3 de setembro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte B — PET 16704]** [16/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117034 Data: 16/09/2026, Ã s 18:03:48 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [16/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117004 Data: 16/09/2026, Ã s 17:37:09 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Pedido de vista suspende discussão sobre julgamento conjunto de duas petições do caso Master (2026-09-15) — [https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/](https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/)
+
+## 2026-09-17 16:00 UTC
+
+- **[Fonte B — PET 16704]** [17/09/2026] Vista Ã  PGR para fins de intimaÃ§Ã£o ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390512609&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [17/09/2026] Despacho — "Sobreveio, no julgamento da PET 16.662, realizado em
+15 de setembro de 2026, QuestÃ£o de Ordem, cujo exame foi objeto de
+pedido de vista, propugnando por (i) reunir em tramitaÃ§Ã£o conjunta a
+PET 16.662 e a PET 16.704; (ii) redistribuir os feitos na forma regimental;
+(iii) estipular, apÃ³s a redistribuiÃ§Ã£o dos processos, a necessidade de
+certificaÃ§Ã£o de todos os magistrados mencionados no Ã¢mbito do processo
+do Banco Master sobre os quais recaiam indÃ­cios de recebimento de
+valores indevidos; e (iv) determinar, apÃ³s a certificaÃ§Ã£o referida, a
+abertura de prazo para a manifestaÃ§Ã£o do Procurador-Geral da RepÃºblica
+e dos juÃ­zes citados.
+Considerando a direta relaÃ§Ã£o dos pontos contidos na QuestÃ£o de
+Ordem referida acima com a apreciaÃ§Ã£o destes autos, abarcando
+questionamento sobre a regularidade da prÃ³pria relatoria, a inclusÃ£o em
+pauta serÃ¡ oportunamente redesignada.
+Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390512609&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Informe da Secretaria de Comunicação (2026-09-17) — [https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/](https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/)

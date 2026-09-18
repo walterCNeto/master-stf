@@ -875,3 +875,8 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 
 - **[Fonte B — PET 16704]** [17/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 117402 Data: 17/09/2026, Ã s 13:33:30 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Informe da Secretaria de Comunicação (2026-09-17) — [https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/](https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/)
+
+## 2026-09-18 12:00 UTC
+
+- **[Fonte A]** ARE 1620035 — BANCO MASTER S/A - EM LIQUIDACAO EXTRAJUDICIAL (autuado 21/08/2026, tramitação Não) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7673438](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7673438)
+- **[Fonte B — PET 16704]** [18/09/2026] PublicaÃ§Ã£o, DJE — Divulgado em 17/09/2026 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

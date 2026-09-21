@@ -894,3 +894,7 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 ## 2026-09-21 16:00 UTC
 
 - **[Fonte B — PET 16704]** [21/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 118647 Data: 21/09/2026, Ã s 11:52:23 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-09-21 21:00 UTC
+
+- **[Fonte B — PET 16704]** [21/09/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

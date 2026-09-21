@@ -890,3 +890,7 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 - **[Fonte B — PET 16704]** [21/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 14/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390577013&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [21/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 11/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390576998&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [21/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 11/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390576997&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-09-21 16:00 UTC
+
+- **[Fonte B — PET 16704]** [21/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 118647 Data: 21/09/2026, Ã s 11:52:23 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

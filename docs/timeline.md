@@ -898,3 +898,13 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 ## 2026-09-21 21:00 UTC
 
 - **[Fonte B — PET 16704]** [21/09/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-09-22 16:00 UTC
+
+- **[Fonte B — PET 16704]** [22/09/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [22/09/2026] Despacho — em 21/09/2026 do Ministro AndrÃ© MendonÃ§a. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390606727&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [22/09/2026] PublicaÃ§Ã£o, DJE — Divulgado em 21/09/2026 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [22/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 14/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390605427&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [22/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 14/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390605426&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [22/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 14/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390605424&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** União tem 90 dias para reavaliar normas que regulamentam a CVM (2026-09-21) — [https://noticias.stf.jus.br/postsnoticias/uniao-tem-90-dias-para-reavaliar-normas-que-regulamentam-a-cvm/](https://noticias.stf.jus.br/postsnoticias/uniao-tem-90-dias-para-reavaliar-normas-que-regulamentam-a-cvm/)

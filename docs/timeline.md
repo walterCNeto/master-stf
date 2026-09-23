@@ -915,3 +915,8 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 - **[Fonte B — PET 16704]** [22/09/2026] Conclusos ao(Ã ) Relator(a) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [22/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 119827 Data: 22/09/2026, Ã s 20:04:43 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [22/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 119752 Data: 22/09/2026, Ã s 18:21:42 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-09-23 21:00 UTC
+
+- **[Fonte B — PET 15198]** [23/09/2026] PetiÃ§Ã£o — 120168/2026 - 23/09/2026 - (Via Malote Digital) - 2Âª Vara Criminal Federal de SÃ£o Paulo, 23/9/2026 - encaminha cÃ³pia de decisÃ£o e documentos. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [23/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 120331 Data: 23/09/2026, Ã s 17:23:16 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

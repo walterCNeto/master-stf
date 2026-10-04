@@ -920,3 +920,36 @@ Publique-se." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=153
 
 - **[Fonte B — PET 15198]** [23/09/2026] PetiÃ§Ã£o — 120168/2026 - 23/09/2026 - (Via Malote Digital) - 2Âª Vara Criminal Federal de SÃ£o Paulo, 23/9/2026 - encaminha cÃ³pia de decisÃ£o e documentos. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
 - **[Fonte B — PET 16704]** [23/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 120331 Data: 23/09/2026, Ã s 17:23:16 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-10-04 16:00 UTC
+
+- **[Fonte A]** Rcl 97917 — BANCO MASTER S/A - EM LIQUIDACAO EXTRAJUDICIAL (autuado 24/07/2026, tramitação Não) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7653088](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7653088)
+- **[Fonte B — PET 15198]** [01/10/2026] Conclusos ao(Ã ) Relator(a) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [01/10/2026] PetiÃ§Ã£o — 124289/2026 - 01/10/2026 - Fernando Alves Vieira - manifestaÃ§Ã£o. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [23/09/2026] LanÃ§amento indevido — 23/09/2026 - PetiÃ§Ã£o
+Justificativa: EquÃ­voco no vÃ­nculo. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [23/09/2026] PetiÃ§Ã£o — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [29/09/2026] Remessa — da PetiÃ§Ã£o nÂº 123031/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [29/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 123031 Data: 29/09/2026, Ã s 18:36:02 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [28/09/2026] Remessa — da PetiÃ§Ã£o nÂº 121549/2026 Ã  PresidÃªncia. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [28/09/2026] Remessa — da PetiÃ§Ã£o nÂº 121748/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [28/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 18/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390780042&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [28/09/2026] PublicaÃ§Ã£o, DJE — Divulgado em 25/09/2026 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [26/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 121748 Data: 26/09/2026, Ã s 14:00:38 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [25/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 121549 Data: 25/09/2026, Ã s 18:12:51 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [25/09/2026] Vista Ã  PGR ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390752276&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [25/09/2026] Despacho — Considerando os requerimentos pendentes, entendo necessÃ¡ria a
+oitiva da Procuradoria-Geral da RepÃºblica acerca de todas as
+providÃªncias postuladas (Docs. 161, 163, 166, 175, 180, 184, 189 e 194),
+inclusive quanto Ã  sua pertinÃªncia, necessidade, adequaÃ§Ã£o e eventual
+repercussÃ£o sobre procedimentos investigativos em curso.
+Ã Procuradoria-Geral da RepÃºblica, para manifestaÃ§Ã£o e parecer, no
+prazo de 5 (cinco) dias.
+ApÃ³s, retornem os autos conclusos.
+Cumpra-se.
+Publique-se. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390749920&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [25/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 15/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390736338&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [24/09/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [24/09/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 120634 Data: 24/09/2026, Ã s 11:54:04 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [24/09/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 15/09/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390683853&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Relator determina que PF investigue possíveis irregularidades na atuação da CVM no caso Master (2026-09-24) — [https://noticias.stf.jus.br/postsnoticias/relator-determina-que-pf-investigue-possiveis-irregularidades-na-atuacao-da-cvm-no-caso-master/](https://noticias.stf.jus.br/postsnoticias/relator-determina-que-pf-investigue-possiveis-irregularidades-na-atuacao-da-cvm-no-caso-master/)

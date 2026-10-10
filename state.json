@@ -391,6 +391,10 @@
     "first_seen": "2026-09-16T00:38:54.709809+00:00",
     "source": "fonte_a"
   },
+  "26c380dcfea2e260948313d6c2d4f807d959c5c82476947d23578362f42fc89f": {
+    "first_seen": "2026-10-10T16:00:18.282921+00:00",
+    "source": "fonte_b"
+  },
   "276573e9e6ea03c64874944c9c6099b96be1584acedd66b23690a585383ce63c": {
     "first_seen": "2026-09-16T00:39:54.995427+00:00",
     "source": "fonte_b"
@@ -509,6 +513,10 @@
   },
   "30c1695302f15bf57c42bd95eac4e2b6c3f64a0e737d4b61599885b4e3503157": {
     "first_seen": "2026-09-16T00:39:18.533100+00:00",
+    "source": "fonte_b"
+  },
+  "3118ce0c5ba4ee7aeedbe650063fc9e0b7861c44ed671a87fc6f2fec71b23c08": {
+    "first_seen": "2026-10-10T16:00:18.639626+00:00",
     "source": "fonte_b"
   },
   "312724bd4c4491ed7a6169bec996cc6035460bd07cf4ba9465c66062e83d4a1e": {
@@ -1031,6 +1039,10 @@
     "first_seen": "2026-09-16T00:40:24.902644+00:00",
     "source": "fonte_b"
   },
+  "69cf6aba5d6dbc342f7ccbbcee3ffc20ecfe224ee768e5400c7db3b4522aaad7": {
+    "first_seen": "2026-10-10T16:00:17.217367+00:00",
+    "source": "fonte_b"
+  },
   "69d8282cdd0f99fc128f41dcc7cdb19288efcce8c9c0c53ae5b6d859607cff00": {
     "first_seen": "2026-09-16T00:41:19.422336+00:00",
     "source": "fonte_b"
@@ -1193,6 +1205,10 @@
   },
   "7bbb8184ed334828323a93c9434d294cf7a2dd38c10f6b3ca31864f9a105f1e7": {
     "first_seen": "2026-09-16T00:41:02.591047+00:00",
+    "source": "fonte_b"
+  },
+  "7bf73671e4e8f092c8d886be4b9cc2fc265f3877e6c3acf49ef3a8601fa5a0b5": {
+    "first_seen": "2026-10-10T16:00:17.592925+00:00",
     "source": "fonte_b"
   },
   "7c63842b8f5e42e9369be40b86fb7cf5294538e9521275dd0228a5e194c2efa0": {
@@ -1598,6 +1614,10 @@
   "a06873d9d50752d38523df7293aedd65051717031734e2d85d2645a47ba21ded": {
     "first_seen": "2026-09-16T00:42:20.962239+00:00",
     "source": "fonte_c"
+  },
+  "a085c1030d68791505f614e4a6fe9f14554232e145307823534cebcd8018a8ab": {
+    "first_seen": "2026-10-10T16:00:16.290182+00:00",
+    "source": "fonte_b"
   },
   "a0a8c867ddb36e98df88a113e3acbf03e1183d066180c0ed921c41cfb9692548": {
     "first_seen": "2026-09-16T00:41:33.759503+00:00",
@@ -2195,6 +2215,10 @@
     "first_seen": "2026-09-16T00:40:19.084844+00:00",
     "source": "fonte_b"
   },
+  "e09084034248f599ccc83d92b004e8800b9bb3df39c3dcd0a55a41fb7623e980": {
+    "first_seen": "2026-10-10T16:00:17.938727+00:00",
+    "source": "fonte_b"
+  },
   "e0ebdb0ff789ce7e7002bc17dab1c41ba604da0784343398e72423750002b0a2": {
     "first_seen": "2026-09-16T00:39:40.819800+00:00",
     "source": "fonte_b"
@@ -2417,6 +2441,10 @@
   },
   "f74a3a6d4a3b0eaf22390f5a96d53e19397c50e09bdc0c11aa2a49f97f6f7590": {
     "first_seen": "2026-09-16T00:41:16.313575+00:00",
+    "source": "fonte_b"
+  },
+  "f774cffbcc25d37149fcb148c9c65fd385b83a46af339f4c22ef576df33bf666": {
+    "first_seen": "2026-10-10T16:00:16.867518+00:00",
     "source": "fonte_b"
   },
   "f78749246112c9cef36ee57742f3cd82a85cba9086ef368c162f0c33cb30ef26": {

@@ -963,3 +963,17 @@ Publique-se. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=1539
 - **[Fonte B — PET 16704]** [08/10/2026] Remessa — da PetiÃ§Ã£o nÂº 127346/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [08/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 127346 Data: 08/10/2026, Ã s 12:13:06 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [08/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 127324 Data: 08/10/2026, Ã s 11:41:28 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-10-18 21:00 UTC
+
+- **[Fonte B — PET 15198]** [15/10/2026] Conclusos ao(Ã ) Relator(a) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [15/10/2026] PetiÃ§Ã£o — ProcuraÃ§Ã£o/Substabelecimento - PetiÃ§Ã£o: 130017 Data: 15/10/2026, Ã s 10:07:39 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [17/10/2026] Conclusos ao(Ã ) Relator(a) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [17/10/2026] PetiÃ§Ã£o — Parecer da PGR - PetiÃ§Ã£o Sigilosa: 131105 Data: 17/10/2026, Ã s 16:06:09 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/10/2026] Remessa — da PetiÃ§Ã£o nÂº 130992/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 130992 Data: 16/10/2026, Ã s 18:57:15 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/10/2026] Remessa — da PetiÃ§Ã£o nÂº 130936/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [16/10/2026] PetiÃ§Ã£o — Prioridade na tramitaÃ§Ã£o do feito - PetiÃ§Ã£o: 130936 Data: 16/10/2026, Ã s 17:29:20 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [13/10/2026] Remessa — da PetiÃ§Ã£o nÂº 128602/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [12/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 128602 Data: 12/10/2026, Ã s 19:38:14 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Informe à Imprensa (2026-10-13) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa/)

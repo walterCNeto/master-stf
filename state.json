@@ -187,6 +187,10 @@
     "first_seen": "2026-10-04T16:00:16.617172+00:00",
     "source": "fonte_b"
   },
+  "0f9dcf72eba1dc19133180693b85501dd8c8f27f3c847588b94ef80d9dd33a3c": {
+    "first_seen": "2026-10-18T21:00:14.503369+00:00",
+    "source": "fonte_b"
+  },
   "1050f05f9bf96f6e3ea4d8b2986649427b80d43a6bee4cbd1842b0f07e03e943": {
     "first_seen": "2026-09-16T00:39:56.390739+00:00",
     "source": "fonte_b"
@@ -277,6 +281,10 @@
   },
   "19662487a91f632dc1b82913e6c19fc34449afa5ec00cb3230926c6f9ae29383": {
     "first_seen": "2026-09-16T00:40:15.600956+00:00",
+    "source": "fonte_b"
+  },
+  "19c48741f9a870235dc36d7dcf8d8ddf2d609c2cb15286488e8015d4b681abd3": {
+    "first_seen": "2026-10-18T21:00:17.157258+00:00",
     "source": "fonte_b"
   },
   "1a04cc81d97d4fb0e6c2dce8fa741ffd393ed08d398a9109bbde057467e5b6d7": {
@@ -553,6 +561,10 @@
   },
   "34bbfdc92d7200e07f60e27bcceed2eec38688b0224f7e711e2a0af32296efdf": {
     "first_seen": "2026-09-16T00:41:41.775665+00:00",
+    "source": "fonte_b"
+  },
+  "34f11fada06c3ad9a9e220d337b0755582a20cd7640464a14c37ec9977aacc4b": {
+    "first_seen": "2026-10-18T21:00:15.162878+00:00",
     "source": "fonte_b"
   },
   "3590eeb50d1a2364e1bae8e15372470fe261d2884146b3b79dcce032ca38039f": {
@@ -1069,6 +1081,10 @@
   },
   "6bd47eb436b6aa867ef75eb122db604b1e6ecb94d9eb289d4bae47d4979322ae": {
     "first_seen": "2026-09-16T00:40:52.617394+00:00",
+    "source": "fonte_b"
+  },
+  "6bee6fcf201a271f26986c52de217149ec43f7adc3194c1e2f7e728a7bbab952": {
+    "first_seen": "2026-10-18T21:00:16.477702+00:00",
     "source": "fonte_b"
   },
   "6c9f1408342850f0ed0c50bba83093f285660c65b62170c12e8dd3e04160818c": {
@@ -1683,6 +1699,10 @@
     "first_seen": "2026-09-23T12:00:13.477168+00:00",
     "source": "fonte_b"
   },
+  "a9288e1df7b1ce5dbef4a5dfbd7fbaae1c750fe3f94da1f73516abd5d9d32c5a": {
+    "first_seen": "2026-10-18T21:00:16.158894+00:00",
+    "source": "fonte_b"
+  },
   "a9855b35c7d376067839a0db923ab28ce39cc04cd9c41c8ea374e32de24a12b9": {
     "first_seen": "2026-09-16T00:40:58.789394+00:00",
     "source": "fonte_b"
@@ -1867,6 +1887,10 @@
     "first_seen": "2026-09-16T00:40:22.157945+00:00",
     "source": "fonte_b"
   },
+  "bb7a48c4e6b4c1dbafe56696dad6411e3320c9c29089d0c8853155caf72753ac": {
+    "first_seen": "2026-10-18T21:00:14.830597+00:00",
+    "source": "fonte_b"
+  },
   "bbc274ee8076ac1c3f1f8fbdddead365fa05e6713d868d1e46b8b0848fc48589": {
     "first_seen": "2026-09-23T21:00:10.437093+00:00",
     "source": "fonte_b"
@@ -1929,6 +1953,10 @@
   },
   "c1fc3e326cc017d4d8d7212a202e7fb78f16cbcdf6161540f40f853d4ef6a0cb": {
     "first_seen": "2026-09-16T00:40:35.207852+00:00",
+    "source": "fonte_b"
+  },
+  "c2815d084209d19532dc3af4f8afe60e6c6e0917fb4dd01603052378932045d5": {
+    "first_seen": "2026-10-18T21:00:15.492335+00:00",
     "source": "fonte_b"
   },
   "c2eb802e262237c3b42323d3d70f7a78ba93e876f51ee2d75f5c1f840ad40108": {
@@ -2099,6 +2127,10 @@
     "first_seen": "2026-09-16T00:40:43.396676+00:00",
     "source": "fonte_b"
   },
+  "d52ae9593916d11687be0d2934816f7150f84fe27b64fd4c3fa2aa8bedcec504": {
+    "first_seen": "2026-10-18T21:00:14.172552+00:00",
+    "source": "fonte_b"
+  },
   "d5c9e439439de065d9fed52f98e51e97edbdbc368fb097409e295ed28d6b2d08": {
     "first_seen": "2026-09-16T00:39:04.038530+00:00",
     "source": "fonte_b"
@@ -2118,6 +2150,10 @@
   "d619e27740b62909bb2acd4bb159925c865ceaf521654740b4a70d16f43facc4": {
     "first_seen": "2026-09-16T00:41:48.946019+00:00",
     "source": "fonte_b"
+  },
+  "d66242b3e93e3f68935e30a7724329ddb8a15319d728c152ef0a7f0dc6d7ac6d": {
+    "first_seen": "2026-10-18T21:00:17.489223+00:00",
+    "source": "fonte_c"
   },
   "d670db1cd62a153cfeb6d7afbf6bde979103d622f63bb3ae879a22b4d4d75f9d": {
     "first_seen": "2026-09-16T00:40:50.563786+00:00",
@@ -2483,8 +2519,16 @@
     "first_seen": "2026-10-04T16:00:17.270711+00:00",
     "source": "fonte_b"
   },
+  "fea3aaed309ccbcc742c5c29891f578868a3aea8198e2f4c7c8ee60c93c42e2b": {
+    "first_seen": "2026-10-18T21:00:15.827470+00:00",
+    "source": "fonte_b"
+  },
   "feb49befdfdaef4a90f9f6985361f6e779e908182f29f6cee89e9cd3881c0f66": {
     "first_seen": "2026-09-16T00:39:34.613312+00:00",
+    "source": "fonte_b"
+  },
+  "ff1cd03671350114c11a16201ab37480977912e2d26fd4ff146305d254e7281e": {
+    "first_seen": "2026-10-18T21:00:16.828879+00:00",
     "source": "fonte_b"
   },
   "ffcf33fbd55854534c088d59ab261416607c630194187d5ee1c914be378562b7": {

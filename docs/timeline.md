@@ -977,3 +977,13 @@ Publique-se. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=1539
 - **[Fonte B — PET 16704]** [13/10/2026] Remessa — da PetiÃ§Ã£o nÂº 128602/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [12/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 128602 Data: 12/10/2026, Ã s 19:38:14 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Informe à Imprensa (2026-10-13) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa/)
+
+## 2026-10-21 21:00 UTC
+
+- **[Fonte B — PET 16704]** [21/10/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [21/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 132578 Data: 21/10/2026, Ã s 14:17:34 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [20/10/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [20/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 131863 Data: 20/10/2026, Ã s 14:04:36 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [20/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 131845 Data: 20/10/2026, Ã s 13:39:09 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [19/10/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [19/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 131523 Data: 19/10/2026, Ã s 20:48:39 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

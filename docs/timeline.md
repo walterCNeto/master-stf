@@ -997,3 +997,24 @@ Publique-se. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=1539
 
 - **[Fonte B — PET 16704]** [26/10/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [26/10/2026] Remessa — da PetiÃ§Ã£o nÂº 134080/2026, para juntada e prosseguimento. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-11-03 21:00 UTC
+
+- **[Fonte B — PET 15198]** [30/10/2026] Conclusos Ã  PresidÃªncia — Em cumprimento Ã  decisÃ£o proferida na PET 16704, em 29/10/2026. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [03/11/2026] CertidÃ£o — Certifico a elaboraÃ§Ã£o de 1 ofÃ­cio eletrÃ´nico. DecisÃ£o de 29.10.2026. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [03/11/2026] Vista Ã  PGR para fins de intimaÃ§Ã£o ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391870494&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [03/11/2026] Convertido em diligÃªncia — "[...] Ã Secretaria JudiciÃ¡ria para que: (i) proceda Ã  identificaÃ§Ã£o e Ã 
+separaÃ§Ã£o dos autos relacionados Ã s PETs 15.041 e 15.556, promovendo a
+imediata devoluÃ§Ã£o dos primeiros ao Relator originÃ¡rio e mantendo na
+PresidÃªncia exclusivamente os procedimentos referidos no inciso II, com
+a devida conclusÃ£o dos autos, sem substituiÃ§Ã£o de Relatoria; (ii) faÃ§a o
+devido acompanhamento dos prazos e estabelecidos; e (iii) certifique nos
+autos o recebimento do relatÃ³rio solicitado da PolÃ­cia Federal.
+Comunique-se ao eminente Ministro AndrÃ© MendonÃ§a.
+DÃª-se ciÃªncia Ã  Procuradoria-Geral da RepÃºblica.
+Publique-se.
+BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391870494&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [03/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 137220 Data: 03/11/2026, Ã s 11:50:22 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [29/10/2026] Remessa — da PetiÃ§Ã£o nÂº 136166/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [29/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 136166 Data: 29/10/2026, Ã s 12:20:03 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Presidente do STF devolve Operação Sem Desconto a relator e mantém provisoriamente Compliance Zero (2026-10-29) — [https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-devolve-operacao-sem-desconto-a-relator-e-mantem-provisoriamente-compliance-zero/](https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-devolve-operacao-sem-desconto-a-relator-e-mantem-provisoriamente-compliance-zero/)

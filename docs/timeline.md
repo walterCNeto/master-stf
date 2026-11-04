@@ -1018,3 +1018,12 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte B — PET 16704]** [29/10/2026] Remessa — da PetiÃ§Ã£o nÂº 136166/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [29/10/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 136166 Data: 29/10/2026, Ã s 12:20:03 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Presidente do STF devolve Operação Sem Desconto a relator e mantém provisoriamente Compliance Zero (2026-10-29) — [https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-devolve-operacao-sem-desconto-a-relator-e-mantem-provisoriamente-compliance-zero/](https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-devolve-operacao-sem-desconto-a-relator-e-mantem-provisoriamente-compliance-zero/)
+
+## 2026-11-04 21:00 UTC
+
+- **[Fonte B — PET 15198]** [04/11/2026] Conclusos Ã  PresidÃªncia — Em cumprimento Ã  decisÃ£o proferida na PET 16704, em 29/10/2026. — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [04/11/2026] PetiÃ§Ã£o — Juntada de documentos - PetiÃ§Ã£o: 138092 Data: 04/11/2026, Ã s 14:54:16 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [04/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [04/11/2026] Expedido(a) — ComunicaÃ§Ã£o decisÃ£o_Presidente — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [04/11/2026] PublicaÃ§Ã£o, DJE — Divulgado em 03/11/2026 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [03/11/2026] ComunicaÃ§Ã£o assinada — OfÃ­cio 25867/2026. ComunicaÃ§Ã£o decisÃ£o_Presidente ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391925113&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

@@ -151,6 +151,10 @@
     "first_seen": "2026-09-16T00:41:35.141557+00:00",
     "source": "fonte_b"
   },
+  "0cfa9670ded05bcc568c4637c2cdc59204ea94d6952c6f2167d15ecb97ee6a3e": {
+    "first_seen": "2026-11-11T12:00:17.097279+00:00",
+    "source": "fonte_b"
+  },
   "0db86c1a148383c3fe692dcc1707043464812c3d56d7ad9ceeeb800365f40b18": {
     "first_seen": "2026-09-16T00:42:00.545954+00:00",
     "source": "fonte_b"
@@ -1015,6 +1019,10 @@
     "first_seen": "2026-09-16T00:41:53.038240+00:00",
     "source": "fonte_b"
   },
+  "5a18bdba505340395d7bdf1bdff0e5aa7f41625794ca53163f5eaf7a1f3637fb": {
+    "first_seen": "2026-11-11T12:00:16.719656+00:00",
+    "source": "fonte_b"
+  },
   "5a19f60da18d55223bd1567b0069698b7a037acc1ede0b636a01f00577182f28": {
     "first_seen": "2026-10-04T16:00:15.252290+00:00",
     "source": "fonte_b"
@@ -1073,6 +1081,10 @@
   },
   "63962bbeb05ceb5d1e4774666d98313d13fb73e705fe6b418f1541c4846dbb36": {
     "first_seen": "2026-09-17T12:00:33.979658+00:00",
+    "source": "fonte_b"
+  },
+  "64e9d5d9a2b74b20049540462b45dc3525fdb7d29b444420b1067ea3f95e32b9": {
+    "first_seen": "2026-11-11T12:00:15.676651+00:00",
     "source": "fonte_b"
   },
   "667e23b45da653d55c5a5e833fcbf44714ddc0002fe72c2e9ec8a1a30e7d9e92": {
@@ -1855,6 +1867,10 @@
     "first_seen": "2026-09-16T00:42:05.010435+00:00",
     "source": "fonte_b"
   },
+  "ae39769275e843c2e4c6b8719044a3e876f9902fbb516a653277bcfa9135d669": {
+    "first_seen": "2026-11-11T12:00:17.429733+00:00",
+    "source": "fonte_c"
+  },
   "aea3a1af9c306ee662c28d342bc9304e443005403f7f4a1bda744512baad7f1c": {
     "first_seen": "2026-09-16T00:39:30.176353+00:00",
     "source": "fonte_b"
@@ -2175,6 +2191,10 @@
     "first_seen": "2026-09-16T00:41:24.528968+00:00",
     "source": "fonte_b"
   },
+  "d12bf72ff88295392f8fc598db04fd5a01b7c2bef8f655419fc5e6915a121cf5": {
+    "first_seen": "2026-11-11T12:00:16.052157+00:00",
+    "source": "fonte_b"
+  },
   "d15032e53d54867125ef28f27ac278aebb90c2034a6eb5d9dd31624014cb186a": {
     "first_seen": "2026-09-16T00:39:08.487548+00:00",
     "source": "fonte_b"
@@ -2305,6 +2325,10 @@
   },
   "da1e1ad3b4a71b8c51d76782712521bac80fbc6e22dabaf1fd25fc590b3a8cce": {
     "first_seen": "2026-09-16T00:40:23.884791+00:00",
+    "source": "fonte_b"
+  },
+  "da3c7dbe79f6d8fa3b07cf699c34f0d7ba166ea0ad42ba3f018f821bffd9abd2": {
+    "first_seen": "2026-11-11T12:00:16.377190+00:00",
     "source": "fonte_b"
   },
   "da489ab5b447e0a3e3c724b1ad1366d44f4ea222709f6b082c592811d49e9f07": {

@@ -1039,3 +1039,12 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 
 - **[Fonte B — PET 15198]** [30/10/2026] Conclusos Ã  PresidÃªncia — Em cumprimento Ã  decisÃ£o proferida na PET 16704, em 29/10/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392100523&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
 - **[Fonte C]** Caso Master: STF mantém prisão preventiva de Fabiano Zettel (2026-11-06) — [https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/](https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/)
+
+## 2026-11-11 12:00 UTC
+
+- **[Fonte B — PET 15198]** [09/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [09/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 140131 Data: 09/11/2026, Ã s 17:03:00 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 16704]** [10/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [10/11/2026] Interposto agravo regimental — Juntada PetiÃ§Ã£o: 140432/2026 (Pet-AgR-segundo) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [09/11/2026] PetiÃ§Ã£o — Agravo Regimental - PetiÃ§Ã£o: 140432 Data: 09/11/2026, Ã s 23:00:32 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Caso Master: STF mantém prisão preventiva de Fabiano Zettel (2026-11-06) — [https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/](https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/)

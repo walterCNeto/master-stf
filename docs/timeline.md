@@ -1048,3 +1048,11 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte B — PET 16704]** [10/11/2026] Interposto agravo regimental — Juntada PetiÃ§Ã£o: 140432/2026 (Pet-AgR-segundo) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [09/11/2026] PetiÃ§Ã£o — Agravo Regimental - PetiÃ§Ã£o: 140432 Data: 09/11/2026, Ã s 23:00:32 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Caso Master: STF mantém prisão preventiva de Fabiano Zettel (2026-11-06) — [https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/](https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/)
+
+## 2026-11-15 12:00 UTC
+
+- **[Fonte B — PET 16704]** [13/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [13/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 142407 Data: 13/11/2026, Ã s 14:05:23 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [13/11/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 04/11/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392271220&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [12/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [12/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 142153 Data: 12/11/2026, Ã s 19:30:00 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)

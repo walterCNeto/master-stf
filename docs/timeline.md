@@ -1056,3 +1056,9 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte B — PET 16704]** [13/11/2026] Intimado eletronicamente — PROCURADOR-GERAL DA REPÃBLICA. IntimaÃ§Ã£o relativa ao DJe publicado em 04/11/2026. ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392271220&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [12/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [12/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 142153 Data: 12/11/2026, Ã s 19:30:00 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+
+## 2026-11-19 12:00 UTC
+
+- **[Fonte B — PET 16704]** [17/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte B — PET 16704]** [17/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 144422 Data: 17/11/2026, Ã s 19:54:26 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
+- **[Fonte C]** Informe à Imprensa (2026-11-18) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/)

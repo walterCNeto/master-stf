@@ -1066,3 +1066,7 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 ## 2026-11-19 16:00 UTC
 
 - **[Fonte C]** Informe à Imprensa (2026-11-18) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/)
+
+## 2026-11-19 21:00 UTC
+
+- **[Fonte C]** Caso Master: STF mantém prisão preventiva de primo do banqueiro Daniel Vorcaro (2026-11-19) — [https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-primo-do-banqueiro-daniel-vorcaro/](https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-primo-do-banqueiro-daniel-vorcaro/)

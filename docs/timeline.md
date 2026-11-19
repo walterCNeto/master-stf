@@ -1062,3 +1062,7 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 - **[Fonte B — PET 16704]** [17/11/2026] Conclusos Ã  PresidÃªncia — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte B — PET 16704]** [17/11/2026] PetiÃ§Ã£o — ManifestaÃ§Ã£o - PetiÃ§Ã£o: 144422 Data: 17/11/2026, Ã s 19:54:26 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920)
 - **[Fonte C]** Informe à Imprensa (2026-11-18) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/)
+
+## 2026-11-19 16:00 UTC
+
+- **[Fonte C]** Informe à Imprensa (2026-11-18) — [https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/](https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/)

@@ -1082,3 +1082,7 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 ## 2026-11-24 12:00 UTC
 
 - **[Fonte C]** STF mantém prisão preventiva de Daniel Vorcaro (2026-11-23) — [https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/](https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/)
+
+## 2026-11-24 21:00 UTC
+
+- **[Fonte C]** Presidente do STF determina manifestação do BC e de liquidante do Master sobre liberação de bens do BRB (2026-11-24) — [https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-determina-manifestacao-de-liquidante-do-master-e-do-bc-sobre-liberacao-de-bens-do-brb/](https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-determina-manifestacao-de-liquidante-do-master-e-do-bc-sobre-liberacao-de-bens-do-brb/)

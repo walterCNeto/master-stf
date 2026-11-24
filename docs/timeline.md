@@ -1078,3 +1078,7 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 ## 2026-11-23 21:00 UTC
 
 - **[Fonte C]** STF mantém prisão preventiva de Daniel Vorcaro (2026-11-23) — [https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/](https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/)
+
+## 2026-11-24 12:00 UTC
+
+- **[Fonte C]** STF mantém prisão preventiva de Daniel Vorcaro (2026-11-23) — [https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/](https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-preventiva-de-daniel-vorcaro/)

@@ -1095,3 +1095,8 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 ## 2026-11-25 16:00 UTC
 
 - **[Fonte C]** Presidente do STF determina manifestação do BC e de liquidante do Master sobre liberação de bens do BRB (2026-11-24) — [https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-determina-manifestacao-de-liquidante-do-master-e-do-bc-sobre-liberacao-de-bens-do-brb/](https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-determina-manifestacao-de-liquidante-do-master-e-do-bc-sobre-liberacao-de-bens-do-brb/)
+
+## 2026-11-26 21:00 UTC
+
+- **[Fonte B — PET 15198]** [26/11/2026] CertidÃ£o — CertidÃ£o - RetificaÃ§Ã£o de AutuaÃ§Ã£o ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392574213&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [26/11/2026] PetiÃ§Ã£o — ProcuraÃ§Ã£o/Substabelecimento - PetiÃ§Ã£o: 148257 Data: 26/11/2026, Ã s 13:37:59 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)

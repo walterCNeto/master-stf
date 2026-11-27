@@ -1100,3 +1100,11 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 
 - **[Fonte B — PET 15198]** [26/11/2026] CertidÃ£o — CertidÃ£o - RetificaÃ§Ã£o de AutuaÃ§Ã£o ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392574213&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
 - **[Fonte B — PET 15198]** [26/11/2026] PetiÃ§Ã£o — ProcuraÃ§Ã£o/Substabelecimento - PetiÃ§Ã£o: 148257 Data: 26/11/2026, Ã s 13:37:59 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+
+## 2026-11-27 16:00 UTC
+
+- **[Fonte B — PET 15198]** [27/11/2026] Vista Ã  PGR ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392613940&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [27/11/2026] Despacho — "(...) Colha-se manifestaÃ§Ã£o da Procuradoria-Geral da RepÃºblica sobre o
+pedido formulado pela defesa (eDOC 1.118, ID: 1f3ba461), no prazo
+regimental.
+BrasÃ­lia, 26 de novembro de 2026." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392609025&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)

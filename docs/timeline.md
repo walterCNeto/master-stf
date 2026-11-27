@@ -1108,3 +1108,9 @@ BrasÃ­lia, 29 de outubro de 2026." ([doc](https://portal.stf.jus.br/processos/
 pedido formulado pela defesa (eDOC 1.118, ID: 1f3ba461), no prazo
 regimental.
 BrasÃ­lia, 26 de novembro de 2026." ([doc](https://portal.stf.jus.br/processos/downloadPeca.asp?id=15392609025&ext=.pdf)) — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+
+## 2026-11-27 21:00 UTC
+
+- **[Fonte B — PET 15198]** [27/11/2026] Remessa — da PetiÃ§Ã£o nÂº 149109/2026 para PRESIDÃNCIA — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte B — PET 15198]** [27/11/2026] PetiÃ§Ã£o — Esclarecimentos - PetiÃ§Ã£o: 149109 Data: 27/11/2026, Ã s 17:20:36 — [https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336](https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336)
+- **[Fonte C]** STF mantém prisões de ex-presidente do BRB e de advogado investigados no caso Master (2026-11-27) — [https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisoes-de-ex-presidente-do-brb-e-de-advogado-investigados-no-caso-master/](https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisoes-de-ex-presidente-do-brb-e-de-advogado-investigados-no-caso-master/)

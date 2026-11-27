@@ -371,6 +371,10 @@
     "first_seen": "2026-09-16T00:39:07.803334+00:00",
     "source": "fonte_b"
   },
+  "2096868a18a953eef16a0dc92f6b7c55dbdc1b7495138e91117c911299769c04": {
+    "first_seen": "2026-11-27T21:00:19.000180+00:00",
+    "source": "fonte_b"
+  },
   "2144ba0ff0751f2b2d2c522cab4667b6e958da4803b54b5fe812a0725ae40ecc": {
     "first_seen": "2026-09-16T00:41:24.188478+00:00",
     "source": "fonte_b"
@@ -2163,6 +2167,10 @@
     "first_seen": "2026-09-16T00:39:42.914367+00:00",
     "source": "fonte_b"
   },
+  "c92bb5064736fe5ed33b23ddbbe4829462f211b6f88980b8c2d4995ee31c545c": {
+    "first_seen": "2026-11-27T21:00:19.354784+00:00",
+    "source": "fonte_c"
+  },
   "c94752c54ff43b98b76383f7a176067eafe7eb05c983c8f226639e8817e5d227": {
     "first_seen": "2026-09-16T00:39:02.328165+00:00",
     "source": "fonte_b"
@@ -2185,6 +2193,10 @@
   },
   "cbbafd9f12865a6d55e6e28432a40e1651e4e0bc95aa7806830c8b4982a0c463": {
     "first_seen": "2026-09-16T00:41:40.045544+00:00",
+    "source": "fonte_b"
+  },
+  "cbbd934a0a3c345249d38f06cdeb6130cec8210a4fd2e8059d619741a64dccc2": {
+    "first_seen": "2026-11-27T21:00:18.665376+00:00",
     "source": "fonte_b"
   },
   "cbc1a554dc807f22f6b8b73d2fe47bf2243873767277c29125a9ab2f5b461501": {
